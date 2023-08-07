@@ -9,3 +9,5 @@ This session lasts 3 weeks in December 2022, with a face-to-face and remote form
 The languages ​​studied are : HTML5, CSS3 and JavaScript.
 
 This project was completed in 2 days by **@zeitounmax** and **@Elodie0530**.
+
+*Ps: Our project contains a hidden page.*

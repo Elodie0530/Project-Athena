@@ -8,5 +8,6 @@ Cette session à durée 3 semaines au mois de décembre 2022, avec un format en 
 
 Les langages étudiés sont : HTML5, CSS3 et Javascript.
 
-Ce projet à été réalisé en 2 jours par **@zeitounmax** et **@Elodie0530**.
+Ce projet a été réalisé en 2 jours par **@zeitounmax** et **@Elodie0530**.
 
+*Ps : Notre projet contient une page cachée.* 
